@@ -1,0 +1,7 @@
+D:\Мои файлы\CSharp\TracertApp\TracertApp\bin\Debug\TracertApp.exe.config
+D:\Мои файлы\CSharp\TracertApp\TracertApp\bin\Debug\TracertApp.exe
+D:\Мои файлы\CSharp\TracertApp\TracertApp\bin\Debug\TracertApp.pdb
+D:\Мои файлы\CSharp\TracertApp\TracertApp\obj\Debug\TracertApp.csprojAssemblyReference.cache
+D:\Мои файлы\CSharp\TracertApp\TracertApp\obj\Debug\TracertApp.csproj.CoreCompileInputs.cache
+D:\Мои файлы\CSharp\TracertApp\TracertApp\obj\Debug\TracertApp.exe
+D:\Мои файлы\CSharp\TracertApp\TracertApp\obj\Debug\TracertApp.pdb
